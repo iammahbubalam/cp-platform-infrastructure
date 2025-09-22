@@ -1,0 +1,3 @@
+[submodule "services/cp-auth-service"]
+	path = services/cp-auth-service
+	url = git@github.com:iammahbubalam/cp-auth-service.git
